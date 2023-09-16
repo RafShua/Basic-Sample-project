@@ -1,0 +1,9 @@
+.header {
+    Background: blue;
+}
+.header .container {
+    Background: green;
+}
+.banner.container{
+    background: orange;
+}
